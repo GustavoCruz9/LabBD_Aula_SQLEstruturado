@@ -1,5 +1,5 @@
 1) Fazer em SQL Server os seguintes algoritmos:
-a) Dado um número inteiro. Calcule e mostre o seu fatorial. (Não usar entrada superior a 12)
+a) Dado um número inteiro. Calcule e mostre o seu fatorial. (Não usar entrada superior a 12) <br>
 b) Dados A, B, e C de uma equação do 2o grau da fórmula AX2+BX+C=0. Verifique e mostre a
 existência de raízes reais e se caso exista, calcule e mostre. Caso não existam, exibir mensagem.
 c) Calcule e mostre quantos anos serão necessários para que Ana seja maior que Maria sabendo
