@@ -10,9 +10,9 @@ e) Considerando a tabela abaixo, gere uma massa de dados, com 50 registros, para
 com as regras estabelecidas (Não usar constraints na criação da tabela)
 Produto <br>
 Codigo Nome Valor Vencimento <br>
-INT (PK) VARCHAR(30) DECIMAL(7,2) DATE <br>
+INT (PK) VARCHAR(30) DECIMAL(7,2) DATE <br>  <br>
 
-• Código inicia em 50001 e incrementa de 1 em 1
-• Nome segue padrão simples: Produto 1, Produto 2, Produto 3, etc.
-• Valor, gerar um número aleatório* entre 10.00 e 100.00
+• Código inicia em 50001 e incrementa de 1 em 1   <br>
+• Nome segue padrão simples: Produto 1, Produto 2, Produto 3, etc.  <br>
+• Valor, gerar um número aleatório* entre 10.00 e 100.00  <br>
 • Vencimento, gerar um número aleatório* entre 3 e 7 e usando a função específica para soma de datas no SQL Server, somar o valor gerado à data de hoje.
